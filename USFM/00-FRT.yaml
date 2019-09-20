@@ -1,0 +1,315 @@
+checking:
+  checking_entity:
+  - unfoldingWord
+  checking_level: '3'
+dublin_core:
+  conformsto: rc0.2
+  contributor:
+  - Jesse Griffin (BA Biblical Studies, Liberty University; MA Biblical Languages,
+    Gordon-Conwell Theological Seminary)
+  - Perry Oakes (BA Biblical Studies, Taylor University; MA Theology, Fuller Seminary;
+    MA Linguistics, University of Texas at Arlington; PhD Old Testament, Southwestern
+    Baptist Theological Seminary)
+  - Larry Sallee (Th.M Dallas Theological Seminary, D.Min. Columbia Biblical Seminary)
+  - Joel D. Ruark (M.A.Th. Gordon-Conwell Theological Seminary; Th.M.  Stellenbosch
+    University; Ph.D. Candidate in Old Testament Studies, Stellenbosch University)
+  - Door43 World Missions Community
+  creator: unfoldingWord
+  description: An open-licensed, lexically tagged, morphologically parsed Hebrew Old
+    Testament. It enables the global Church to have access to the original texts of
+    the Old Testament.
+  format: text/usfm3
+  identifier: uhb
+  issued: '2019-06-21'
+  language:
+    direction: rtl
+    identifier: hbo
+    title: Ancient Hebrew
+  modified: '2019-06-21'
+  publisher: unfoldingWord
+  relation:
+  - en/ult
+  - en/ust
+  rights: CC BY-SA 4.0
+  source:
+  - identifier: oshb
+    language: hbo
+    version: '2.1'
+  subject: Hebrew Old Testament
+  title: "unfoldingWord\xAE Hebrew Bible"
+  type: bundle
+  version: 2.1.7
+projects:
+- categories:
+  - bible-ot
+  identifier: gen
+  path: ./01-GEN.usfm
+  sort: 1
+  title: Genesis
+  versification: ufw
+- categories:
+  - bible-ot
+  identifier: exo
+  path: ./02-EXO.usfm
+  sort: 2
+  title: Exodus
+  versification: ufw
+- categories:
+  - bible-ot
+  identifier: lev
+  path: ./03-LEV.usfm
+  sort: 3
+  title: Leviticus
+  versification: ufw
+- categories:
+  - bible-ot
+  identifier: num
+  path: ./04-NUM.usfm
+  sort: 4
+  title: Numbers
+  versification: ufw
+- categories:
+  - bible-ot
+  identifier: deu
+  path: ./05-DEU.usfm
+  sort: 5
+  title: Deuteronomy
+  versification: ufw
+- categories:
+  - bible-ot
+  identifier: jos
+  path: ./06-JOS.usfm
+  sort: 6
+  title: Joshua
+  versification: ufw
+- categories:
+  - bible-ot
+  identifier: jdg
+  path: ./07-JDG.usfm
+  sort: 7
+  title: Judges
+  versification: ufw
+- categories:
+  - bible-ot
+  identifier: rut
+  path: ./08-RUT.usfm
+  sort: 8
+  title: Ruth
+  versification: ufw
+- categories:
+  - bible-ot
+  identifier: 1sa
+  path: ./09-1SA.usfm
+  sort: 9
+  title: 1 Samuel
+  versification: ufw
+- categories:
+  - bible-ot
+  identifier: 2sa
+  path: ./10-2SA.usfm
+  sort: 10
+  title: 2 Samuel
+  versification: ufw
+- categories:
+  - bible-ot
+  identifier: 1ki
+  path: ./11-1KI.usfm
+  sort: 11
+  title: 1 Kings
+  versification: ufw
+- categories:
+  - bible-ot
+  identifier: 2ki
+  path: ./12-2KI.usfm
+  sort: 12
+  title: 2 Kings
+  versification: ufw
+- categories:
+  - bible-ot
+  identifier: 1ch
+  path: ./13-1CH.usfm
+  sort: 13
+  title: 1 Chronicles
+  versification: ufw
+- categories:
+  - bible-ot
+  identifier: 2ch
+  path: ./14-2CH.usfm
+  sort: 14
+  title: 2 Chronicles
+  versification: ufw
+- categories:
+  - bible-ot
+  identifier: ezr
+  path: ./15-EZR.usfm
+  sort: 15
+  title: Ezra
+  versification: ufw
+- categories:
+  - bible-ot
+  identifier: neh
+  path: ./16-NEH.usfm
+  sort: 16
+  title: Nehemiah
+  versification: ufw
+- categories:
+  - bible-ot
+  identifier: est
+  path: ./17-EST.usfm
+  sort: 17
+  title: Esther
+  versification: ufw
+- categories:
+  - bible-ot
+  identifier: job
+  path: ./18-JOB.usfm
+  sort: 18
+  title: Job
+  versification: ufw
+- categories:
+  - bible-ot
+  identifier: psa
+  path: ./19-PSA.usfm
+  sort: 19
+  title: Psalms
+  versification: ufw
+- categories:
+  - bible-ot
+  identifier: pro
+  path: ./20-PRO.usfm
+  sort: 20
+  title: Proverbs
+  versification: ufw
+- categories:
+  - bible-ot
+  identifier: ecc
+  path: ./21-ECC.usfm
+  sort: 21
+  title: Ecclesiastes
+  versification: ufw
+- categories:
+  - bible-ot
+  identifier: sng
+  path: ./22-SNG.usfm
+  sort: 22
+  title: Song of Solomon
+  versification: ufw
+- categories:
+  - bible-ot
+  identifier: isa
+  path: ./23-ISA.usfm
+  sort: 23
+  title: Isaiah
+  versification: ufw
+- categories:
+  - bible-ot
+  identifier: jer
+  path: ./24-JER.usfm
+  sort: 24
+  title: Jeremiah
+  versification: ufw
+- categories:
+  - bible-ot
+  identifier: lam
+  path: ./25-LAM.usfm
+  sort: 25
+  title: Lamentations
+  versification: ufw
+- categories:
+  - bible-ot
+  identifier: ezk
+  path: ./26-EZK.usfm
+  sort: 26
+  title: Ezekiel
+  versification: ufw
+- categories:
+  - bible-ot
+  identifier: dan
+  path: ./27-DAN.usfm
+  sort: 27
+  title: Daniel
+  versification: ufw
+- categories:
+  - bible-ot
+  identifier: hos
+  path: ./28-HOS.usfm
+  sort: 28
+  title: Hosea
+  versification: ufw
+- categories:
+  - bible-ot
+  identifier: jol
+  path: ./29-JOL.usfm
+  sort: 29
+  title: Joel
+  versification: ufw
+- categories:
+  - bible-ot
+  identifier: amo
+  path: ./30-AMO.usfm
+  sort: 30
+  title: Amos
+  versification: ufw
+- categories:
+  - bible-ot
+  identifier: oba
+  path: ./31-OBA.usfm
+  sort: 31
+  title: Obadiah
+  versification: ufw
+- categories:
+  - bible-ot
+  identifier: jon
+  path: ./32-JON.usfm
+  sort: 32
+  title: Jonah
+  versification: ufw
+- categories:
+  - bible-ot
+  identifier: mic
+  path: ./33-MIC.usfm
+  sort: 33
+  title: Micah
+  versification: ufw
+- categories:
+  - bible-ot
+  identifier: nam
+  path: ./34-NAM.usfm
+  sort: 34
+  title: Nahum
+  versification: ufw
+- categories:
+  - bible-ot
+  identifier: hab
+  path: ./35-HAB.usfm
+  sort: 35
+  title: Habakkuk
+  versification: ufw
+- categories:
+  - bible-ot
+  identifier: zep
+  path: ./36-ZEP.usfm
+  sort: 36
+  title: Zephaniah
+  versification: ufw
+- categories:
+  - bible-ot
+  identifier: hag
+  path: ./37-HAG.usfm
+  sort: 37
+  title: Haggai
+  versification: ufw
+- categories:
+  - bible-ot
+  identifier: zec
+  path: ./38-ZEC.usfm
+  sort: 38
+  title: Zechariah
+  versification: ufw
+- categories:
+  - bible-ot
+  identifier: mal
+  path: ./39-MAL.usfm
+  sort: 39
+  title: Malachi
+  versification: ufw
